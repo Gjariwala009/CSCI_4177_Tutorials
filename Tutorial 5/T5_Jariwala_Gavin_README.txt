@@ -9,9 +9,8 @@
 
 * *Date Created*: 11 07 2024
 * *Last Modification Date*: 11 07 2024
-* *Lab URL*: <https://web.cs.dal.ca/~gjjariwala/csci3172/lab6/ >
-* *GitLab URL*: <https://git.cs.dal.ca/gjjariwala/csci3172/labs/lab6>
-* *GitHub URL*: <https://github.com/Gjariwala009/CSCI_4177_Tutorials/tree/main/Tutorial%201>
+* *GitLab URL*: <https://git.cs.dal.ca/gjjariwala/csci_4177_tutorials/-/tree/main/Tutorial%205?ref_type=heads>
+* *GitHub URL*: <https://github.com/Gjariwala009/CSCI_4177_Tutorials/tree/main/Tutorial%205>
 
 
 
@@ -24,7 +23,7 @@
 
 ## Website URL
 
-* *URL*: <https://main--lucky-palmier-30c255.netlify.app>
+* *URL*: <>
 
 ## Getting Started
 

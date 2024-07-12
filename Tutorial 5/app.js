@@ -1,7 +1,6 @@
 const http = require('http');
 
-const hostname = '127.0.0.1';
-const port = 3000;
+const port = process.env.PORT || 3000;
 
 let users = [
   { email: 'abc@abc.ca', firstName: 'ABC', id: '5abf6783' },
@@ -108,6 +107,6 @@ const server = http.createServer((req, res) => {
   }
 });
 
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
+server.listen(port, () => {
+  console.log(`Server running`);
 });
